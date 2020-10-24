@@ -1,6 +1,6 @@
 # Laravel Project
-## ajax(laravel_hosting.zip folder)
-### for output you need to go to right_click=>inspect=>click_name(i.e.control)=>response
+## ajax(laravel.zip folder)
+### for output you will you will see alert box, and you can view it on by inspect=>console
 
 
 
